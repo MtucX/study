@@ -36,8 +36,6 @@ for j in range(1,leng+1):
            break
 print "admin Password is %s" %(password)
 print "---------------------------------------------"
-print "                   RESULT"
-print "   ADMIN   PASSWORD : %s" %(password)
-print "   member  PASSWORD : %s" %(baordpass)
-print "                                             "
+print "   admin   passwords : %s" %(password)
+print "   member  passwords : %s" %(member)
 print "---------------------------------------------"
