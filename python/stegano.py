@@ -1,3 +1,4 @@
+#MtucX
 #stegano challenge
 import Image
 img = Image.open('image.png')
